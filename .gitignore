@@ -68,3 +68,6 @@ Thumbs.db
 
 # Build system
 pyproject.toml.lock
+
+
+mathovenv/
